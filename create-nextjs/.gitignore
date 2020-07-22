@@ -1,1 +1,4 @@
-create-nextjs-project.sh
+.next
+node_modules
+next-env.d.ts
+tsconfig.json
